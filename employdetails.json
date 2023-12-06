@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "id": 102,
+      "name": "Alice Smith",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 85800,
+      "contact": {
+        "email": "alice@example.com",
+        "phone": "555-1234"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Bob Johnson",
+      "position": "Marketing Specialist",
+      "department": "Marketing",
+      "salary": 12500,
+      "contact": {
+        "email": "bob@example.com",
+        "phone": "555-5678"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Charlie Brown",
+      "position": "Human Resources Manager",
+      "department": "Human Resources",
+      "salary": 75000,
+      "contact": {
+        "email": "charlie@example.com",
+        "phone": "555-4321"
+      }
+    }
+  ]
+}
+
